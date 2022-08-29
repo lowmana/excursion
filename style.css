@@ -30,3 +30,29 @@ header h1 {
   display: block;
   margin: 30px auto;
 }
+
+.photo-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.photo-section h2 {
+  font-size: 42px;
+  font-weight: 300;
+
+  padding-top: 40px;
+}
+
+.photo-section p {
+  font-size: 21px;
+  color: grey;
+
+  padding-top: 40px;
+}
+
+.photo-section img {
+  max-width: 70%;
+
+  padding-top: 40px;
+}

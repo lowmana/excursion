@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  font-family: verdana;
+  color: white;
+  font-weight: normal;
+}
+
+body {
+  background: black;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.video-section {
+  padding-top: 40px;
+}
+
+.video-section .link-container {
+  text-align: center;
+}
+
+.video-section .download-link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.video-section video {
+  display: block;
+  margin: 30px auto;
+}

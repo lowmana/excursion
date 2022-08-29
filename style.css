@@ -79,3 +79,12 @@ header h1 {
 
   padding-top: 40px;
 }
+
+footer {
+  padding-top: 40px;
+}
+
+footer span {
+  display: block;
+  text-align: right;
+}

@@ -18,13 +18,12 @@ header h1 {
   padding-top: 40px;
 }
 
-.video-section .link-container {
-  text-align: center;
-}
-
 .video-section .download-link {
   color: Aquamarine;
   font-size: 16px;
+
+  display: block;
+  text-align: center;
 }
 
 .video-section video {
